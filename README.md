@@ -26,7 +26,9 @@ int primo[a];
             }
         }
 }
+
 int main()
+
 {
 char op=0;
     setlocale(LC_ALL,"portuguese");//permite usar ~ e ç
